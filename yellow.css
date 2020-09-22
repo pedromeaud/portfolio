@@ -1,0 +1,18 @@
+:root {
+  --mainColor: #eee5a2;
+  --secoundaryColor: #e3c04d;
+
+  --borderColor: #b0adaa;
+
+  --mainText: black;
+  --secoundaryText: #eeeeee;
+
+  --themeDotBorder: #b0adaa;
+
+  --previewBg: #ca9e2f;
+  --previewShadow: #ede9c1;
+
+  --buttonColor: #cc9900;
+
+  --anchorColor: #006699;
+}
